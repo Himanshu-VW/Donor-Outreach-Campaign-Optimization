@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="DonarDashboard" src="https://github.com/user-attachments/assets/202f6ff2-4f61-4621-9b46-a52a866841d5" />Donor Outreach & Campaign Optimization Dashboard
+Donor Outreach & Campaign Optimization Dashboard
 Excel-based donor analytics dashboard built to identify high-value segments, track churn, and compare campaign ROI across channels — mirroring the responsibilities of a crowdfunding intern at an education NGO.
 Tools: Excel · Power Query · Pivot Tables
 Dashboard
